@@ -42,3 +42,4 @@ Fleas come only if there are a small number of mushrooms.
           When 5000 points are reached, the speed of the hour hand will be 2 times.
           The narrowing of the player's area will cause an increase in adrenaline.
           The player will want to play again to experience this feeling again.
+
