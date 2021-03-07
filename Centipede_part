@@ -1,0 +1,10 @@
+import pygame, random, math
+class BasicTower(pygame.sprite.Sprite):
+
+    image = None
+
+    def __init__(self,x,y):
+        pygame.sprite.Sprite.__init__(self)
+
+        if BasicTower.image is None:
+            BasicTower.image = pygame.image.load("Turret.png")
